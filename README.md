@@ -13,3 +13,7 @@ One thing I really found interesting about git is the way in which we can test o
 A git command that I found helpful is `git log --oneline`. This really helps us in tracking what commits have been done in a compact and easy-to-read way.
 
 Thank you for reading
+
+# What I Learned
+
+I am learning how Git and GitHub work together.
